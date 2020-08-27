@@ -1,0 +1,13 @@
+
+Hi  {FNAME}, {LNAME} :
+<br/>
+
+Welcome to IES family,  Your Account Password is.<br/>
+<br/>
+ Password : {TEMP-PWD}<br/>
+<br/>
+
+<br/>
+
+Thanks & Regards,<br/>
+IES Team.<br/>
